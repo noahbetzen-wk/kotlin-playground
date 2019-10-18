@@ -9,14 +9,19 @@ Resources:
   * [Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
   * [Kotlin Koans: Online Kotlin Exercises](https://play.kotlinlang.org/koans/overview)
     * [IntelliJ Extension](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Kotlin%20Koans#28d5a6bf)
+* [Kotlin Compiler Plugins (needed for Spring, JPA, etc.)](https://kotlinlang.org/docs/reference/compiler-plugins.html)
+
+Examples:
 * [Official Kotlin Examples](https://github.com/Kotlin/kotlin-examples)
 * [Kotlin Full Stack Example](https://github.com/Kotlin/kotlin-fullstack-sample)
 * [Spring Boot Official Kotlin Example](https://spring.io/guides/tutorials/spring-boot-kotlin/)
+* [Design Patterns in Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+
+Java comparisons:
 * [Comparison of Kotlin to Java](https://kotlinlang.org/docs/reference/comparison-to-java.html)
 * [From Java To Kotlin: Cheatsheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 * [Calling Java from Kotlin](https://kotlinlang.org/docs/reference/java-interop.html)
 * [Calling Kotlin from Java](https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html)
-* [Design Patterns in Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
 Books:
 * [Kotlin in Action](https://drive.google.com/open?id=1Vw7c8MGG1wcz-Msj68t2fR8RF8IfXP_A)
