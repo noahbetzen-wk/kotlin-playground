@@ -17,5 +17,5 @@ Resources:
 * [Design Patterns in Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
 Books:
-* [Kotlin in Action]()
-* [The Joy of Kotlin]()
+* [Kotlin in Action](https://drive.google.com/open?id=1Vw7c8MGG1wcz-Msj68t2fR8RF8IfXP_A)
+* [The Joy of Kotlin](https://drive.google.com/open?id=16ZaeJdp37J5ASEPDmNGKstHMi4tyQJKG)
