@@ -14,6 +14,8 @@ Resources:
 * [Spring Boot Official Kotlin Example](https://spring.io/guides/tutorials/spring-boot-kotlin/)
 * [Comparison of Kotlin to Java](https://kotlinlang.org/docs/reference/comparison-to-java.html)
 * [From Java To Kotlin: Cheatsheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+* [Calling Java from Kotlin](https://kotlinlang.org/docs/reference/java-interop.html)
+* [Calling Kotlin from Java](https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html)
 * [Design Patterns in Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
 Books:
